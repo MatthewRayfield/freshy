@@ -1,6 +1,6 @@
 ![alt text](IMG_8834.png)
 
-# freshy v1.0.2
+# freshy v1.0.3
 
 watches Last-Modified header and reloads the page when it changes. optionally watches other things.
 
